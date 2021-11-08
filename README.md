@@ -62,7 +62,7 @@ vector<vector<State>> grid;
 ## Compile the Program
 For the current time I did not create a Makefile or a CMakeLists.txt file but one can simply compile and run the program as follows:  
 - Clone the Repo  
-git clone https://github.com/Abdsaddik/Store-Good-Management.git  
+git clone https://github.com/abdulkarim723/A-STAR-Alogrithm-Implementation-to-Find-the-Path-Between-Two-Points-in-a-Two-D-Map-.git  
 - Go inside the cloned folder from the terminal:  
 ```
 cd A-STAR-Alogrithm-Implementation-to-Find-the-Path-Between-Two-Points-in-a-Two-D-Map-
